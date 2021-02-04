@@ -2,5 +2,5 @@
 
 int main() {
   FundOperator p;
-  p.q1008();
+  p.q10869();
 }
