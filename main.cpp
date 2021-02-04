@@ -1,6 +1,8 @@
 #include <iostream>
 
+#include "FundOperator/FundOperator.h"
+
 int main() {
-  std::cout << "Hello, World!" << std::endl;
-  return 0;
+  FundOperator p;
+  p.q10171();
 }

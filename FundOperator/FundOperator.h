@@ -13,6 +13,7 @@ using namespace std;
 class FundOperator {
 public:
   void q10718();
+  void q10171();
 };
 
 #endif //BACKJOON_FUNDOPERATOR_H
