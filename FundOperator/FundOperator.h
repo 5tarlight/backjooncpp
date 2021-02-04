@@ -14,6 +14,7 @@ class FundOperator {
 public:
   void q10718();
   void q10171();
+  void q1008();
 };
 
 #endif //BACKJOON_FUNDOPERATOR_H
