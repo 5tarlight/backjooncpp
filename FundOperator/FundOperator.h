@@ -16,6 +16,7 @@ public:
   void q10171();
   void q1008();
   void q10869();
+  void q10430();
 };
 
 #endif //BACKJOON_FUNDOPERATOR_H
